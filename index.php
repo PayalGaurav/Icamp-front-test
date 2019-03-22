@@ -136,37 +136,7 @@
       </section>
       <!-- banner end-->
 
-      <!--count down start-->
-      <section class="ts-count-down">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-10 mx-auto">
-                  <div class="countdown gradient clearfix">
-                     <div class="counter-item">
-                        <span class="days">00</span>
-                        <div class="smalltext">Days</div>
-                        <b>:</b>
-                     </div>
-                     <div class="counter-item">
-                        <span class="hours">00</span>
-                        <div class="smalltext">Hours</div>
-                        <b>:</b>
-                     </div>
-                     <div class="counter-item">
-                        <span class="minutes">00</span>
-                        <div class="smalltext">Minutes</div>
-                        <b>:</b>
-                     </div>
-                     <div class="counter-item">
-                        <span class="seconds">00</span>
-                        <div class="smalltext">Seconds</div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!--count down end-->
+      
       <!-- ts intro start -->
       <section class="ts-intro-outcome" style="background-image: url(images/bg/outcomes_bg.jpg)">
          <div class="container">
