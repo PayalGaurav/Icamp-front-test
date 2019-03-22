@@ -235,7 +235,7 @@
                                 </a>
                      </div>
                      <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Aayush Lal</a></h3>
+                        <h3 class="ts-title"><a href="#">Ayush Lal</a></h3>
                         <p>
                            3rd year, ETC
                         </p>
@@ -251,7 +251,7 @@
                         </div><!-- col end-->
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">Aayush Lal</h3>
+                              <h3 class="ts-title">Ayush Lal</h3>
                               <span class="speakder-designation">Internship profile : Technical</span>
                               <h5 class="session-name">
                                  Kriti Technologies
