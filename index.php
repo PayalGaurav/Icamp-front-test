@@ -11,7 +11,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
    <!-- Site Title -->
-   <title>Exhibit - Conference &amp; Event HTML Template</title>
+   <title>Internship Camp 2k19</title>
 
     <!-- CSS
          ================================================== -->
@@ -138,7 +138,7 @@
 
       
       <!-- ts intro start -->
-      <section class="ts-intro-outcome" style="background-image: url(images/bg/outcomes_bg.jpg)">
+      <section class="ts-intro-outcome" style="background-image: url(images/bg/outcomes_bg.jpg)" id="event_outcome">
          <div class="container">
             <div class="row">
                <div class="col-lg-8 mx-auto">
@@ -151,19 +151,19 @@
             <div class="row">
                <div class="col-lg-3 col-md-6 outcome-item">
                   <div class="ts-single-outcome">
-                     <i class="icon-building"></i>
+                     <i class="fa fa-globe"></i>
                      <h3 class="ts-title">Connections</h3>
                   </div><!-- single outcome end-->
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6 outcome-item">
                   <div class="ts-single-outcome">
-                     <i class="icon-marketing"></i>
-                     <h3 class="ts-title">Placement readiness</h3>
+                     <i class="fa fa-building-o"></i>
+                     <h3 class="ts-title">Placement ready</h3>
                   </div><!-- single outcome end-->
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6 outcome-item">
                   <div class="ts-single-outcome">
-                     <i class="icon-planning"></i>
+                     <i class="fa fa-sticky-note-o "></i>
                      <h3 class="ts-title">Experience</h3>
                   </div><!-- single outcome end-->
                </div><!-- col end-->
@@ -214,7 +214,7 @@
       <!-- ts funfact end-->
 
       <!-- ts speaker start-->
-      <section id="ts-speakers" class="ts-speakers speaker-classic" style="background-image:url(images/speakers/speaker_bg.png)">
+      <section class="ts-speakers speaker-classic" style="background-image:url(images/speakers/speaker_bg.png)" id="testimonials">
          <div class="container">
             <div class="row">
                <div class="col-lg-8 mx-auto">
@@ -796,7 +796,7 @@
 
       <!-- Questionaries-->
       <!-- ts experience start-->
-      <section class="ts-schedule">
+      <section class="ts-schedule" id="questionnaires">
          <div class="container">
             <div class="row">
                <div class="col-lg-8 mx-auto">
@@ -818,7 +818,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title"> I had registered using COMBO code during e-summit. Do I need to create an account here as well?
                                     </h3>
                                     <p>No, you can directly login to I-Camp portal using your E-Summit credentials. If you are facing issues, kindly mail your queries to: icamp2019@gmail.com </p>
@@ -833,7 +833,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                 
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title">I have updated my profile and also paid the amount. I am unable to select companies.
                                     </h3>
                                     <p>The company selection process is not yet activated from our end. Please wait for the company selection process to begin.</p>
@@ -848,7 +848,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title">I am from first year and have no knowledge on how to make a resume.
                                     </h3>
                                     <p>We at KIIT E-Cell are always present for your help. For information on how to make a resume and prepare for Internship Camp, please drop us a mail at icamp2019@gmail.com </p>
@@ -863,7 +863,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title">I had earlier paid 900 INR for E-Summit only. However, I also want to avail Internship Camp at a discounted price.
                                     </h3>
                                     <p>Yes, you can register at a discounted price. Sadly, we aren’t accepting online payments for discounted registrations. Please make a offline payment at any of our registration desks or reach us at: 9439526981 so that we can assist you</p>
@@ -879,7 +879,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title"> Is there a limit to selection of companies?
 
                                     </h3>
@@ -897,7 +897,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title"> Can I opt out of a company and select another after I have made my company selection?
 
 
@@ -914,7 +914,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title"> What is the duration of Internship and the stipend amount?
 
 
@@ -933,7 +933,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title">  I have successfully paid the registration fees and yet my payment status remains pending.
 
                                     </h3>
@@ -951,7 +951,7 @@
                               </div>
                               <div class="schedule-slot-info">
                                  
-                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                 <div class="schedule-slot-info-content" >
                                     <h3 class="schedule-slot-title">  My query is not listed here
 
                                     </h3>
@@ -1194,7 +1194,7 @@
       <!-- ts experience end-->
 
       <!-- ts pricing start-->
-      <section class="ts-pricing" style="background-image: url(images/pricing/ticket_bg.jpg)">
+      <section class="ts-pricing" style="background-image: url(images/pricing/ticket_bg.jpg)" id="pricing"> 
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -1299,6 +1299,27 @@
          i--;
       }
    })
+
+
+
+   
+   </script>
+   <script>
+      $(document).ready(function(){
+ let scroll_link = $('.scroll');
+
+  //smooth scrolling -----------------------
+  scroll_link.click(function(e){
+      e.preventDefault();
+      let url = $('body').find($(this).attr('href')).offset().top;
+      $('html, body').animate({
+        scrollTop : url
+      },700);
+      $(this).parent().addClass('active');
+      $(this).parent().siblings().removeClass('active');
+      return false;	
+   });
+});
    </script>
 </body>
 
