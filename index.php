@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from demo.themewinter.com/html/exhibz/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2019 14:30:41 GMT -->
 <head>
    <!-- Basic Page Needs ================================================== -->
    <meta charset="utf-8">
@@ -827,37 +826,18 @@
       </section>
 
 
+
+      <!-- Questionaries-->
       <!-- ts experience start-->
       <section class="ts-schedule">
          <div class="container">
             <div class="row">
                <div class="col-lg-8 mx-auto">
                   <h2 class="section-title">
-                     <span>Schedule Details</span>
-                     Event Schedules
+                     
+                     Questionnaires
                   </h2>
-                  <div class="ts-schedule-nav">
-                     <ul class="nav nav-tabs justify-content-center" role="tablist">
-                        <li class="nav-item">
-                           <a class="active" title="Click Me" href="#date1" role="tab" data-toggle="tab">
-                                    <h3>5th June</h3>
-                                    <span>Friday</span>
-                                  </a>
-                        </li>
-                        <li class="nav-item">
-                           <a class="" href="#date2" title="Click Me" role="tab" data-toggle="tab">        <h3>6th June</h3>
-                                     <span>Saturday</span>
-                                 </a>
-                        </li>
-                        <li class="nav-item">
-                           <a class="" href="#date3" title="Click Me" role="tab" data-toggle="tab">
-                                    <h3>7th June</h3>
-                                    <span>Sunday</span>
-                                 </a>
-                        </li>
-                     </ul>
-                     <!-- Tab panes -->
-                  </div>
+                  
                </div><!-- col end-->
 
             </div><!-- row end-->
@@ -867,20 +847,14 @@
                         <div role="tabpanel" class="tab-pane active" id="date1">
                            <div class="schedule-listing">
                               <div class="schedule-slot-time">
-                                 <span> 9.30 - 10.30 AM</span>
-                                 Workshop
+                                 <span> Q 1. </span>
                               </div>
                               <div class="schedule-slot-info">
-                                 <a href="#">
-                                               <img class="schedule-slot-speakers" src="images/speakers/speaker1.jpg" alt="">
-                                           </a>
-                                 <div class="schedule-slot-info-content">
-                                    <h3 class="schedule-slot-title">Marketing Matters!
-                                       <strong>@ Fredric Martinsson</strong>
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title"> I had registered using COMBO code during e-summit. Do I need to create an account here as well?
                                     </h3>
-                                    <p>How you transform your business as
-                                       technology, consumer, habits industry dynamics change? Find out from
-                                       those leading the charge. How you transform </p>
+                                    <p>No, you can directly login to I-Camp portal using your E-Summit credentials. If you are facing issues, kindly mail your queries to: icamp2019@gmail.com </p>
                                  </div>
                                  <!--Info content end -->
                               </div><!-- Slot info end -->
@@ -888,20 +862,14 @@
                            <!--schedule-listing end -->
                            <div class="schedule-listing">
                               <div class="schedule-slot-time">
-                                 <span> 10.30 - 11.30 AM</span>
-                                 Workshop
+                                 <span> Q 2.</span>
                               </div>
                               <div class="schedule-slot-info">
-                                 <a href="#">
-                                                   <img class="schedule-slot-speakers" src="images/speakers/speaker2.jpg" alt="">
-                                               </a>
-                                 <div class="schedule-slot-info-content">
-                                    <h3 class="schedule-slot-title">Reinventing Experiences
-                                       <strong>@ Melisa Lundryn</strong>
+                                
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title">I have updated my profile and also paid the amount. I am unable to select companies.
                                     </h3>
-                                    <p>How you transform your business as
-                                       technology, consumer, habits industry dynamics change? Find out from
-                                       those leading the charge. How you transform </p>
+                                    <p>The company selection process is not yet activated from our end. Please wait for the company selection process to begin.</p>
                                  </div>
                                  <!--Info content end -->
                               </div><!-- Slot info end -->
@@ -909,38 +877,29 @@
                            <!--schedule-listing end -->
                            <div class="schedule-listing">
                               <div class="schedule-slot-time">
-                                 <span> 11.30 - 12.30 PM</span>
-                                 Workshop
+                                 <span> Q 3. </span>
                               </div>
                               <div class="schedule-slot-info">
-                                 <a href="#">
-                                                       <img class="schedule-slot-speakers" src="images/speakers/speaker3.jpg" alt="">
-                                                   </a>
-                                 <div class="schedule-slot-info-content">
-                                    <h3 class="schedule-slot-title">Cultures of Creativity
-                                       <strong>@ Johnsson Agaton</strong>
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title">I am from first year and have no knowledge on how to make a resume.
                                     </h3>
-                                    <p>How you transform your business as
-                                       technology, consumer, habits industry dynamics change? Find out from
-                                       those leading the charge. How you transform </p>
+                                    <p>We at KIIT E-Cell are always present for your help. For information on how to make a resume and prepare for Internship Camp, please drop us a mail at icamp2019@gmail.com </p>
                                  </div>
                                  <!--Info content end -->
                               </div><!-- Slot info end -->
                            </div>
                            <!--schedule-listing end -->
-                           <div class="schedule-listing launce">
+                           <div class="schedule-listing">
                               <div class="schedule-slot-time">
-                                 <span> 12.30 - 01.30 PM</span>
+                                 <span> Q 4. </span>
                               </div>
                               <div class="schedule-slot-info">
-   
-                                 <div class="schedule-slot-info-content">
-                                    <h3 class="schedule-slot-title">Lunch Break
-                                       <strong>@ Rebecca Henrikon</strong>
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title">I had earlier paid 900 INR for E-Summit only. However, I also want to avail Internship Camp at a discounted price.
                                     </h3>
-                                    <a href="#">
-                                                       <img  src="images/schedule_lunch.png" alt="">
-                                                    </a>
+                                    <p>Yes, you can register at a discounted price. Sadly, we aren’t accepting online payments for discounted registrations. Please make a offline payment at any of our registration desks or reach us at: 9439526981 so that we can assist you</p>
                                  </div>
                                  <!--Info content end -->
                               </div><!-- Slot info end -->
@@ -949,27 +908,98 @@
    
                            <div class="schedule-listing">
                               <div class="schedule-slot-time">
-                                 <span> 01.30 - 02.30 PM</span>
-                                 Workshop
+                                 <span> Q 5. </span>
                               </div>
                               <div class="schedule-slot-info">
-                                 <a href="#">
-                                            <img class="schedule-slot-speakers" src="images/speakers/speaker4.jpg" alt="">
-                                                       </a>
-                                 <div class="schedule-slot-info-content">
-                                    <h3 class="schedule-slot-title">Human Centered Design
-                                       <strong>@ Agaton Johnsson</strong>
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title"> Is there a limit to selection of companies?
+
                                     </h3>
-                                    <p>How you transform your business as
-                                       technology, consumer, habits industry dynamics change? Find out from
-                                       those leading the charge. How you transform </p>
+                                    <p>Yes, each student will be allowed to sit for interview in four companies. This is done to facilitate equal participation and smooth flow of the Internship Camp.</p>
                                  </div>
                                  <!--Info content end -->
                               </div><!-- Slot info end -->
                            </div>
                            <!--schedule-listing end -->
+
+                           <div class="morequestions" style="display:none;">
+                           <div class="schedule-listing">
+                              <div class="schedule-slot-time">
+                                 <span> Q 6. </span>
+                              </div>
+                              <div class="schedule-slot-info">
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title"> Can I opt out of a company and select another after I have made my company selection?
+
+
+                                    </h3>
+                                    <p> No, once you opt-in to sit for a company, your information along with your resume are sent to the company. Hence, please be careful while chasing your companies.</p>
+                                 </div>
+                                 <!--Info content end -->
+                              </div><!-- Slot info end -->
+                           </div>
+                           <!--schedule-listing end -->
+                           <div class="schedule-listing">
+                              <div class="schedule-slot-time">
+                                 <span> Q 7. </span>
+                              </div>
+                              <div class="schedule-slot-info">
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title"> What is the duration of Internship and the stipend amount?
+
+
+                                    </h3>
+                                    <p> You can find the duration and stipend amount of all companies during the company selection process.
+</p>
+                                 </div>
+                                 <!--Info content end -->
+                              </div><!-- Slot info end -->
+                           </div>
+                           <!--schedule-listing end -->
+
+                           <div class="schedule-listing">
+                              <div class="schedule-slot-time">
+                                 <span> Q 8. </span>
+                              </div>
+                              <div class="schedule-slot-info">
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title">  I have successfully paid the registration fees and yet my payment status remains pending.
+
+                                    </h3>
+                                    <p> For any technical glitches with payment and account approval, please reach us at: <a href="mailto:techies@ecell.org.in">techies@ecell.org.in</a>
+</p>
+                                 </div>
+                                 <!--Info content end -->
+                              </div><!-- Slot info end -->
+                           </div>
+                           <!--schedule-listing end -->
+
+                           <div class="schedule-listing">
+                              <div class="schedule-slot-time">
+                                 <span> Q 9. </span>
+                              </div>
+                              <div class="schedule-slot-info">
+                                 
+                                 <div class="schedule-slot-info-content" style="margin-left:-140px;">
+                                    <h3 class="schedule-slot-title">  My query is not listed here
+
+                                    </h3>
+                                    <p> If you have additional queries, please contact us here at <a href="mailto:techies@ecell.org.in">https://ecell.org.in/contact</a>
+</p>
+                                 </div>
+                                 <!--Info content end -->
+                              </div><!-- Slot info end -->
+                           </div>
+                           <!--schedule-listing end -->
+                           </div>
+
+
                            <div class="schedule-listing-btn">
-                              <a href="#" class="btn">More Details</a>
+                              <a class="btn showmore" style="color:white;">Show More</a>
                            </div>
                         </div>
                         <div role="tabpanel" class="tab-pane" id="date2">
@@ -1446,8 +1476,24 @@
 
    </div>
    <!-- Body inner end -->
+
+   <script>
+   var i=0;
+   $('.showmore').click(function(){
+      if(i==0){
+         $('.morequestions').slideDown();
+         $('.showmore').html("Show Less");
+         i++;
+      }
+      else{
+         $('.morequestions').slideUp();
+         $('.showmore').html("Show More");
+         i--;
+      }
+   })
+   </script>
 </body>
 
 
-<!-- Mirrored from demo.themewinter.com/html/exhibz/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2019 14:31:12 GMT -->
+
 </html>
