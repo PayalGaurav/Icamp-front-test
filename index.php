@@ -61,7 +61,7 @@
                      <div class="banner-content-wrap text-center">
                         <img class="title-shap-img" src="images/shap/title-white.png" alt="">
                         <p class="banner-info">29 to 31st March, 2019, KIIT, Bhubaneswar</p>
-                        <h1 class="banner-title"></h1>
+                        <h1 class="banner-title">Internship Camp'19</h1>
 
                         <p class="banner-desc">
                            Get a chance to explore your career opportunities, and expand your horizons in every possile way.
@@ -87,7 +87,7 @@
                      <div class="banner-content-wrap text-center">
                         <img class="title-shap-img" src="images/shap/title-white.png" alt="">
                         <p class="banner-info">29 to 31st March, 2019, KIIT, Bhubaneswar</p>
-                        <h1 class="banner-title"></h1>
+                        <h1 class="banner-title">Internship Camp'19</h1>
 
                         <p class="banner-desc">
                            Be ready for another flagship event of KIIT E-Cell, where more than 100 companies are waiting to recruit you.
@@ -113,7 +113,7 @@
                      <div class="banner-content-wrap text-center">
                         <img class="title-shap-img" src="images/shap/title-white.png" alt="">
                         <p class="banner-info">29 to 31st March, 2019, KIIT, Bhubaneswar</p>
-                        <h1 class="banner-title"></h1>
+                        <h1 class="banner-title">Internship Camp'19</h1>
 
                         <p class="banner-desc">
                            Utilize your time in the best possible way. Gear up for Internship Camp, 2k19.
