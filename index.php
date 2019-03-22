@@ -60,16 +60,15 @@
                   <div class="col-lg-11 mx-auto">
                      <div class="banner-content-wrap text-center">
                         <img class="title-shap-img" src="images/shap/title-white.png" alt="">
-                        <p class="banner-info">5 to 7 June 2019, Waterfront Hotel, London</p>
-                        <h1 class="banner-title">digital thinkers Meet</h1>
+                        <p class="banner-info">29 to 31st March, 2019, KIIT, Bhubaneswar</p>
+                        <h1 class="banner-title"></h1>
 
                         <p class="banner-desc">
-                           How you transform your business as technology, consumer, habits industry dynamic
-                           s change? Find out from those leading the charge.
+                           Get a chance to explore your career opportunities, and expand your horizons in every possile way.
                         </p>
                         <!-- Countdown end -->
                         <div class="banner-btn">
-                           <a href="#" class="btn">Get Ticket</a>
+                           <a href="#" class="btn">Register</a>
                            <a href="#" class="btn fill">Know More</a>
                         </div>
 
@@ -87,16 +86,15 @@
                   <div class="col-lg-10 mx-auto">
                      <div class="banner-content-wrap text-center">
                         <img class="title-shap-img" src="images/shap/title-white.png" alt="">
-                        <p class="banner-info">5 to 7 June 2019, Waterfront Hotel, London</p>
-                        <h1 class="banner-title">digital thinkers Meet up</h1>
+                        <p class="banner-info">29 to 31st March, 2019, KIIT, Bhubaneswar</p>
+                        <h1 class="banner-title"></h1>
 
                         <p class="banner-desc">
-                           How you transform your business as technology, consumer, habits industry dynamic
-                           s change? Find out from those leading the charge.
+                           Be ready for another flagship event of KIIT E-Cell, where more than 100 companies are waiting to recruit you.
                         </p>
                         <!-- Countdown end -->
                         <div class="banner-btn">
-                           <a href="#" class="btn">Get Ticket</a>
+                           <a href="#" class="btn">Register</a>
                            <a href="#" class="btn fill">Know More</a>
                         </div>
 
@@ -114,16 +112,15 @@
                   <div class="col-lg-10 mx-auto">
                      <div class="banner-content-wrap text-center">
                         <img class="title-shap-img" src="images/shap/title-white.png" alt="">
-                        <p class="banner-info">5 to 7 June 2019, Waterfront Hotel, London</p>
-                        <h1 class="banner-title">digital thinkers Meet up</h1>
+                        <p class="banner-info">29 to 31st March, 2019, KIIT, Bhubaneswar</p>
+                        <h1 class="banner-title"></h1>
 
                         <p class="banner-desc">
-                           How you transform your business as technology, consumer, habits industry dynamic
-                           s change? Find out from those leading the charge.
+                           Utilize your time in the best possible way. Gear up for Internship Camp, 2k19.
                         </p>
                         <!-- Countdown end -->
                         <div class="banner-btn">
-                           <a href="#" class="btn">Get Ticket</a>
+                           <a href="#" class="btn">Register</a>
                            <a href="#" class="btn fill">Know More</a>
                         </div>
 
