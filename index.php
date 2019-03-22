@@ -507,15 +507,14 @@ It was a lot of fun working in ThinkZone. I designed a lot of things like their 
                   <div class="">
                      <div class="outcome-content ts-exp-content">
                         <h2 class="column-title">
-                           <span>Event Outcomes</span>
+                           
                            Learn new things and
                            grow your connections
                         </h2>
                         <p class="text-white">
-                           How you transform your business technology consumer, habits industry dynamic change the Find
-                           out from those leading
+                           Internship Camp is KIIT E-Cell's initiative to help students get interesting internship opportunity. With the help and guidance of KIIT Deemed to be University and KIIT Training and Placement Cell, through I-Camp, KIIT E-Cell provides students a chance to explore career opportunities that they won't come across in their academic careers, expanding their horizons in every possible way. <br>
                         </p>
-                        <a href="#" class="btn">Buy Ticket</a>
+                        <a href="#" class="btn">Register</a>
                      </div>
                   </div>
                </div>
