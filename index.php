@@ -68,8 +68,8 @@
                         </p>
                         <!-- Countdown end -->
                         <div class="banner-btn">
-                           <a href="#" class="btn">Register</a>
-                           <a href="#" class="btn fill">Know More</a>
+                           <a href="register" class="btn">Register</a>
+                           
                         </div>
 
                      </div>
@@ -94,8 +94,8 @@
                         </p>
                         <!-- Countdown end -->
                         <div class="banner-btn">
-                           <a href="#" class="btn">Register</a>
-                           <a href="#" class="btn fill">Know More</a>
+                           <a href="register" class="btn">Register</a>
+                           
                         </div>
 
                      </div>
@@ -120,8 +120,8 @@
                         </p>
                         <!-- Countdown end -->
                         <div class="banner-btn">
-                           <a href="#" class="btn">Register</a>
-                           <a href="#" class="btn fill">Know More</a>
+                           <a href="register" class="btn">Register</a>
+                           
                         </div>
 
                      </div>
@@ -1229,63 +1229,34 @@
             <div class="row">
                <div class="col-lg-12">
                   <h2 class="section-title white">
-                     <span>Pricing Plans</span>
-                     Get your Ticket
+                     
+                     Pricing Plans
                   </h2>
                </div><!-- section title end-->
             </div><!-- col end-->
             <!-- row end-->
             <div class="row">
-               <div class="col-lg-4">
-                  <div class="ts-pricing-item disebled">
-                     <div class="ts-pricing-header">
-                        <i class="icon-pricing-1Asset-1"></i>
-                        <h2 class="ts-pricing-name">Early Bird</h2>
-                        <h3 class="ts-pricing-price">
-                           <img class="currency" src="images/pricing/dollar.png" alt="">
-                           <span>39.9</span>
-                        </h3>
-                     </div>
-                     <p>
-                        How you transform your business as technology, consumer, habits industrys dynamic
-                     </p>
-                     <a href="#" class="btn btn-round">Sold Out</a>
-                  </div>
-               </div><!-- col end-->
+            <div class="col-lg-4">
+            </div>
                <div class="col-lg-4">
                   <div class="ts-pricing-item active">
                      <div class="ts-pricing-header">
                         <i class="icon-pricing-2Asset-2"></i>
-                        <h2 class="ts-pricing-name">Regular</h2>
+                        <h2 class="ts-pricing-name">Icamp Only</h2>
                         <h3 class="ts-pricing-price">
                            <img class="currency" src="images/pricing/dollar.png" alt="">
-                           <span>59.9</span>
+                           <span>Rs. 515</span>
                         </h3>
                      </div>
                      <p>
-                        How you transform your business as technology, consumer, habits industrys dynamic
+                        Participants who can only appear for internship camp 2019
                      </p>
-                     <a href="#" class="btn btn-round">Buy Ticket</a>
+                     
                   </div>
                </div><!-- col end-->
-               <div class="col-lg-4">
-                  <div class="pricing-item">
-                     <div class="ts-pricing-item">
-                        <div class="ts-pricing-header">
-                           <i class="icon-pricing-3Asset-3"></i>
-                           <h2 class="ts-pricing-name">Platinum</h2>
-                           <h3 class="ts-pricing-price">
-                              <img class="currency" src="images/pricing/dollar.png" alt="">
-                              <span>99.9</span>
-                           </h3>
-                        </div>
-                        <p>
-                           How you transform your business as technology, consumer, habits industrys dynamic
-                        </p>
-                        <a href="#" class="btn btn-round">Buy Ticket</a>
-                     </div>
-                  </div>
-               </div><!-- col end-->
+               <<div class="col-lg-4">
+            </div>
+               
             </div>
          </div><!-- container end-->
          <div class="speaker-shap">
@@ -1294,143 +1265,13 @@
       </section>
       <!-- ts pricing end-->
 
-      <!-- ts sponsors start-->
-      <section id="ts-sponsors" class="ts-sponsors">
-         <div class="container">
-            <div class="row text-center">
-               <div class="col-lg-12 mx-auto">
-                  <h2 class="section-title text-center">
-                     <span>Who Healps us</span>
-                     Our Sponsors
-                  </h2>
-               </div>
-            </div>
-            <!--/ Title row end -->
-            <div class="sponsors-wrap">
-               <h3 class="sponsor-title text-center">Platinum Sponsors</h3>
-               <div class="row sponsor-padding text-center">
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-1.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 1 end -->
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-2.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 2 end -->
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-3.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 3 end -->
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-4.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 3 end -->
-               </div>
-            </div>
-
-            <!--/ Content row 1 end -->
-
-            <div class="sponsors-wrap">
-               <h3 class="sponsor-title text-center">Gold Sponsors</h3>
-               <div class="row sponsor-padding text-center">
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-5.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 1 end -->
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-6.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 2 end -->
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-7.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 3 end -->
-                  <div class="col-lg-3">
-                     <a href="#" class="sponsors-logo">
-                           <img class="img-fluid" src="images/sponsors/sponsor-8.png" alt="">
-                        </a>
-                  </div>
-                  <!-- Col 3 end -->
-               </div>
-            </div>
-
-            <!--/ Content row 2 end -->
-
-
-            <div class="row">
-               <div class="col-lg-12 mx-auto">
-                  <div class="general-btn text-center">
-                     <a class="btn" href="#">Become A Sponsor</a>
-                  </div>
-               </div>
-            </div>
-            <!--/ Content row 3 end -->
-         </div>
-         <!--/ Container end -->
-      </section>
-      <!-- ts ts sponsors end-->
+      
 
 
       <!-- ts footer area start-->
       <div class="footer-area">
 
-         <!-- ts-book-seat start-->
-         <section class="ts-book-seat" style="background-image: url(images/book_seat_img.jpg)">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-8 mx-auto">
-                     <div class="book-seat-content text-center mb-70">
-                        <h2 class="section-title white">
-                           <span>Hurry up!</span>
-                           Book your Seat
-                        </h2>
-                        <a href="#" class="btn">Buy Ticket</a>
-                     </div><!-- book seat end-->
-                  </div><!-- col end-->
-
-               </div><!-- row end-->
-               <div class="ts-footer-newsletter">
-                  <div class="ts-newsletter" style="background-image: url(images/shap/subscribe_pattern.png)">
-                     <div class="row">
-                        <div class="col-lg-6 mx-auto">
-                           <div class="ts-newsletter-content">
-                              <h2 class="section-title">
-                                 <span>sUBSCRIBE TO nEWSLETTER</span>
-                                 Want something extra?
-                              </h2>
-                           </div>
-                           <div class="newsletter-form">
-                              <form action="#" method="post" class="media align-items-end">
-                                 <div class="email-form-group media-body">
-                                    <input type="email" name="email" id="newsletter-form-email" class="form-control"
-                                       placeholder="Your Email" autocomplete="off" required="">
-                                 </div>
-                                 <div class="d-flex ts-submit-btn">
-                                    <button class="btn">Subscribe</button>
-                                 </div>
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div><!-- container end-->
-         </section>
-         <!-- book seat  end-->
+        
 
          <!-- footer start-->
          <?php
