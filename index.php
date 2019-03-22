@@ -220,23 +220,24 @@
                <div class="col-lg-8 mx-auto">
                   <h2 class="section-title text-center">
                      <span>Listen to the</span>
-                     Event Speakers
+                     Our Testimonials
                   </h2>
                </div><!-- col end-->
             </div><!-- row end-->
             <div class="row">
-               <div class="col-lg-3 col-md-6">
+               <div class="col-lg-1"></div>
+               <div class="col-lg-2 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker1.jpg" alt="">
+                        <img class="img-fluid" src="images/image2.jpeg" alt="" style="height: 250px;">
                         <a href="#popup_1" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
                                     <i class="icon icon-plus"></i>
                                 </a>
                      </div>
                      <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Fredric Martinsson</a></h3>
+                        <h3 class="ts-title"><a href="#">Aayush Lal</a></h3>
                         <p>
-                           Founder, Edilta
+                           3rd year, ETC
                         </p>
                      </div>
                   </div>
@@ -245,70 +246,48 @@
                      <div class="row">
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker1.jpg" alt="">
+                              <img src="images/image2.jpeg" alt="">
                            </div>
                         </div><!-- col end-->
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">David Robert</h3>
-                              <span class="speakder-designation">Cheif Architecture</span>
-                              <img class="company-logo" src="images/sponsors/sponsor-6.png" alt="">
+                              <h3 class="ts-title">Aayush Lal</h3>
+                              <span class="speakder-designation">Internship profile : Technical</span>
+                              <h5 class="session-name">
+                                 Kriti Technologies
+                              </h5>
                               <p>
-                                 World is committed to making participation in the event a harass ment free experience
-                                 for everyone, regardless of level experience gender, gender identity and expression
+                                 Worked on database management on UNIX Servers,firewall, and also helped in the UI/UX of the app. I was designated as the poc for clients which gave me abundant experience of the working environment in a corporate structure.
                               </p>
-                              <h4 class="session-name">
-                                 Sessions by David
-                              </h4>
+                              
                               <div class="row">
                                  <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                   10.30 - 11.30 am
-                                             </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
+                                    
                                  </div>
                                  <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                      10.30 - 11.30 am
-                                                </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
+                                    
                                  </div>
                               </div>
-                              <div class="ts-speakers-social">
-                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                 <a href="#"><i class="fa fa-google-plus"></i></a>
-                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                              </div>
+                              
                            </div><!-- ts-speaker-popup-content end-->
                         </div><!-- col end-->
                      </div><!-- row end-->
                   </div><!-- popup end-->
                </div> <!-- col end-->
-               <div class="col-lg-3 col-md-6">
+               <div class="col-lg-2 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker2.jpg" alt="">
+                        <img class="img-fluid" src="images/image4.jpeg" alt=""  style="height: 250px;">
                         <a href="#popup_2"  class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
                                     <i class="icon icon-plus"></i>
                                 </a>
                      </div>
                      <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Melisa Lundryn</a></h3>
+                        <h3 class="ts-title"><a href="#">Navonaya Brahmachari</a></h3>
                         <p>
-                           Lead Designer, Payol
+                           CSCE, 2nd year
                         </p>
+                        
                      </div>
                   </div>
                   <!-- popup start-->
@@ -316,69 +295,51 @@
                      <div class="row">
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker2.jpg" alt="">
+                              <img src="images/image4.jpeg" alt="">
                            </div>
                         </div><!-- col end-->
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">David Robert</h3>
-                              <span class="speakder-designation">Cheif Architecture</span>
-                              <img class="company-logo" src="images/sponsors/sponsor-6.png" alt="">
+                              <h3 class="ts-title">Navonaya Brahmachari</h3>
+                              <span class="speakder-designation">Internship profile : Business Development and Technical Associate, Campus Ambassador</span>
+                              <h5 class="session-name">
+                                 Innolate Technologies Pvt. Ltd.
+                              </h5>
                               <p>
-                                 World is committed to making participation in the event a harass ment free experience
-                                 for everyone, regardless of level experience gender, gender identity and expression
+                                 During previous Icamp , I bagged an internship. Through the internship, I learnt how to understand the mindset of the customers and develop software based on it. The  advertisement  and marketing strategies that are implemented in industries in real time. Apart from this, I also got to interact and increase my network
                               </p>
-                              <h4 class="session-name">
-                                 Sessions by David
-                              </h4>
+                              
                               <div class="row">
                                  <div class="col-lg-6">
                                     <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
+                                       <h5>Duration</h5>
                                        <span>
-                                                         10.30 - 11.30 am
+                                                   May 1st week to July end
                                                    </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
+                                       
                                     </div>
                                  </div>
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                            10.30 - 11.30 am
-                                                      </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
+                                 
+                              
                               </div>
-                              <div class="ts-speakers-social">
-                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                 <a href="#"><i class="fa fa-google-plus"></i></a>
-                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                              </div>
+                              
                            </div><!-- ts-speaker-popup-content end-->
                         </div><!-- col end-->
                      </div><!-- row end-->
                   </div><!-- popup end-->
                </div> <!-- col end-->
-               <div class="col-lg-3 col-md-6">
+               <div class="col-lg-2 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker3.jpg" alt="">
+                        <img class="img-fluid" src="images/image3.jpeg" alt=""  style="height: 250px;">
                         <a href="#popup_3" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
                                     <i class="icon icon-plus"></i>
                                 </a>
                      </div>
                      <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Agaton Johnsson</a></h3>
+                        <h3 class="ts-title"><a href="#">Rahul Mondal</a></h3>
                         <p>
-                           Developer Expert
+                           IT, 3rd year
                         </p>
                      </div>
                   </div>
@@ -387,69 +348,51 @@
                      <div class="row">
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker3.jpg" alt="">
+                              <img src="images/image3.jpeg" alt="">
                            </div>
                         </div><!-- col end-->
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">David Robert</h3>
-                              <span class="speakder-designation">Cheif Architecture</span>
-                              <img class="company-logo" src="images/sponsors/sponsor-6.png" alt="">
+                              <h3 class="ts-title">Rahul Mondal</h3>
+                              <span class="speakder-designation">Internship profile : Design and creative intern</span>
+                              <h5 class="session-name">
+                                 Thinkzone
+                              </h5>
                               <p>
-                                 World is committed to making participation in the event a harass ment free experience
-                                 for everyone, regardless of level experience gender, gender identity and expression
+                                 I started the paid internship of design and creativity intern of 2 months in ThinkZone.
+It was a lot of fun working in ThinkZone. I designed a lot of things like their main platform for them and shot a documentary about the rural education. During the internship period I gathered a lot of experiences and had  loads of fun.
                               </p>
-                              <h4 class="session-name">
-                                 Sessions by David
-                              </h4>
+                              
                               <div class="row">
                                  <div class="col-lg-6">
                                     <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
+                                       <h4>Duration</h4>
                                        <span>
-                                                         10.30 - 11.30 am
+                                                         2 months
                                                    </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
+                                       
                                     </div>
                                  </div>
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                            10.30 - 11.30 am
-                                                      </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
+                                 
                               </div>
-                              <div class="ts-speakers-social">
-                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                 <a href="#"><i class="fa fa-google-plus"></i></a>
-                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                              </div>
+                              
                            </div><!-- ts-speaker-popup-content end-->
                         </div><!-- col end-->
                      </div><!-- row end-->
                   </div><!-- popup end-->
                </div> <!-- col end-->
-               <div class="col-lg-3 col-md-6">
+               <div class="col-lg-2 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker4.jpg" alt="">
+                        <img class="img-fluid" src="images/image1.jpeg" alt=""  style="height: 250px;">
                         <a href="#popup_4" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
                                     <i class="icon icon-plus"></i>
                                 </a>
                      </div>
                      <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Rebecca Henrikon</a></h3>
+                        <h3 class="ts-title"><a href="#">Harshit Raj</a></h3>
                         <p>
-                           Founder, Cards
+                           IT, 2nd year
                         </p>
                      </div>
                   </div>
@@ -458,69 +401,50 @@
                      <div class="row">
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker4.jpg" alt="">
+                              <img src="images/image1.jpeg" alt="">
                            </div>
                         </div><!-- col end-->
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">David Robert</h3>
-                              <span class="speakder-designation">Cheif Architecture</span>
-                              <img class="company-logo" src="images/sponsors/sponsor-6.png" alt="">
+                              <h3 class="ts-title">Harshit Raj</h3>
+                              <span class="speakder-designation">Internship profile : Marketing</span>
+                              <h5 class="session-name">
+                                 Estacha communication
+                              </h5>
                               <p>
-                                 World is committed to making participation in the event a harass ment free experience
-                                 for everyone, regardless of level experience gender, gender identity and expression
+                                 During this period of time I have learnt various skills for digital marketing and content writing. The concerned person who assigned the work to me was very helpful. This gave me a good experience in digital marketing and social media marketing and also helped me increase my knowledge level to a great extent.
                               </p>
-                              <h4 class="session-name">
-                                 Sessions by David
-                              </h4>
+                              
                               <div class="row">
                                  <div class="col-lg-6">
                                     <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
+                                       <h4>Duration</h4>
                                        <span>
-                                                         10.30 - 11.30 am
+                                                         1st May'18 to 30th July'18
                                                    </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
+                                       
                                     </div>
                                  </div>
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                            10.30 - 11.30 am
-                                                      </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
+                                 
                               </div>
-                              <div class="ts-speakers-social">
-                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                 <a href="#"><i class="fa fa-google-plus"></i></a>
-                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                              </div>
+                              
                            </div><!-- ts-speaker-popup-content end-->
                         </div><!-- col end-->
                      </div><!-- row end-->
                   </div><!-- popup end-->
                </div> <!-- col end-->
-               <div class="col-lg-3 col-md-6">
+               <div class="col-lg-2 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker5.jpg" alt="">
+                        <img class="img-fluid" src="images/image5.jpeg" alt=""  style="height: 250px;">
                         <a href="#popup_5" class="view-speaker  ts-image-popup" data-effect="mfp-zoom-in">
                                     <i class="icon icon-plus"></i>
                                 </a>
                      </div>
                      <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Fredric Martinsson</a></h3>
+                        <h3 class="ts-title"><a href="#">Meraj Ahmed</a></h3>
                         <p>
-                           Founder, Edilta
+                           CSSE, 2nd year
                         </p>
                      </div>
                   </div>
@@ -529,216 +453,40 @@
                      <div class="row">
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker5.jpg" alt="">
+                              <img src="images/image5.jpeg" alt="">
                            </div>
                         </div><!-- col end-->
                         <div class="col-lg-6">
                            <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">David Robert</h3>
-                              <span class="speakder-designation">Cheif Architecture</span>
-                              <img class="company-logo" src="images/sponsors/sponsor-6.png" alt="">
+                              <h3 class="ts-title">Meraj Ahmed</h3>
+                              <span class="speakder-designation">Internship profile : Content writer</span>
+                              <h5 class="session-name">
+                                 Moodcafe
+                              </h5>
                               <p>
-                                 World is committed to making participation in the event a harass ment free experience
-                                 for everyone, regardless of level experience gender, gender identity and expression
+                                 Moodcafe was the platform where my career started in the corporate world. Apart from enhancing my knowledge in my domain, I learnt a lot of things, as in work culture, taking responsibilities, etc. The 2 months were one heck of a journey for me.
                               </p>
-                              <h4 class="session-name">
-                                 Sessions by David
-                              </h4>
+                              
                               <div class="row">
                                  <div class="col-lg-6">
                                     <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
+                                       <h4>Duration</h4>
                                        <span>
-                                                         10.30 - 11.30 am
+                                                         5th May'18 to 10th July'18
                                                    </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
+                                       
                                     </div>
                                  </div>
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                            10.30 - 11.30 am
-                                                      </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
+                                 
                               </div>
-                              <div class="ts-speakers-social">
-                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                 <a href="#"><i class="fa fa-google-plus"></i></a>
-                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                              </div>
+                              
                            </div><!-- ts-speaker-popup-content end-->
                         </div><!-- col end-->
                      </div><!-- row end-->
                   </div><!-- popup end-->
                </div> <!-- col end-->
-               <div class="col-lg-3 col-md-6">
-                  <div class="ts-speaker">
-                     <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker6.jpg" alt="">
-                        <a href="#popup_6" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
-                                    <i class="icon icon-plus"></i>
-                                </a>
-                     </div>
-                     <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Lundryn Melisa </a></h3>
-                        <p>
-                           Lead Designer, Payol
-                        </p>
-                     </div>
-                  </div>
-                  <!-- popup start-->
-                  <div id="popup_6" class="container ts-speaker-popup mfp-hide">
-                     <div class="row">
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker1.jpg" alt="">
-                           </div>
-                        </div><!-- col end-->
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">David Robert</h3>
-                              <span class="speakder-designation">Cheif Architecture</span>
-                              <img class="company-logo" src="images/sponsors/sponsor-6.png" alt="">
-                              <p>
-                                 World is committed to making participation in the event a harass ment free experience
-                                 for everyone, regardless of level experience gender, gender identity and expression
-                              </p>
-                              <h4 class="session-name">
-                                 Sessions by David
-                              </h4>
-                              <div class="row">
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                         10.30 - 11.30 am
-                                                   </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                            10.30 - 11.30 am
-                                                      </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="ts-speakers-social">
-                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                 <a href="#"><i class="fa fa-google-plus"></i></a>
-                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                              </div>
-                           </div><!-- ts-speaker-popup-content end-->
-                        </div><!-- col end-->
-                     </div><!-- row end-->
-                  </div><!-- popup end-->
-               </div> <!-- col end-->
-               <div class="col-lg-3 col-md-6">
-                  <div class="ts-speaker">
-                     <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker7.jpg" alt="">
-                        <a href="#popup_7" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
-									<i class="icon icon-plus"></i>
-								</a>
-                     </div>
-                     <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Johnsson Agaton </a></h3>
-                        <p>
-                           Developer Expert
-                        </p>
-                     </div>
-                  </div>
-                  <!-- popup start-->
-                  <div id="popup_7" class="container ts-speaker-popup mfp-hide">
-                     <div class="row">
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker7.jpg" alt="">
-                           </div>
-                        </div><!-- col end-->
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">David Robert</h3>
-                              <span class="speakder-designation">Cheif Architecture</span>
-                              <img class="company-logo" src="images/sponsors/sponsor-6.png" alt="">
-                              <p>
-                                 World is committed to making participation in the event a harass ment free experience
-                                 for everyone, regardless of level experience gender, gender identity and expression
-                              </p>
-                              <h4 class="session-name">
-                                 Sessions by David
-                              </h4>
-                              <div class="row">
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                         10.30 - 11.30 am
-                                                   </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
-                                 <div class="col-lg-6">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                            10.30 - 11.30 am
-                                                      </span>
-                                       <p>
-                                          Marketing Matters
-                                       </p>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="ts-speakers-social">
-                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                 <a href="#"><i class="fa fa-google-plus"></i></a>
-                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                              </div>
-                           </div><!-- ts-speaker-popup-content end-->
-                        </div><!-- col end-->
-                     </div><!-- row end-->
-                  </div><!-- popup end-->
-               </div> <!-- col end-->
-
-               <div class="col-lg-3 col-md-6">
-                  <div class="ts-speaker">
-                     <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/speaker8.jpg" alt="">
-                        <a href="#" class="view-speaker">
-                                    <i class="icon icon-plus"></i>
-                                </a>
-                     </div>
-                     <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Henrikon Rebecca </a></h3>
-                        <p>
-                           Founder, Cards
-                        </p>
-                     </div>
-                  </div>
-               </div> <!-- col end-->
+               
+               <div class="col-lg-1"></div>
             </div><!-- row end-->
          </div><!-- container end-->
 
@@ -761,7 +509,7 @@
                         <h2 class="column-title">
                            <span>Event Outcomes</span>
                            Learn new things and
-                           connect people
+                           grow your connections
                         </h2>
                         <p class="text-white">
                            How you transform your business technology consumer, habits industry dynamic change the Find
@@ -784,7 +532,7 @@
                      <div class="outcome-img overlay">
                         <img class="" src="images/about/connect_img.jpg" alt="">
                      </div>
-                     <h3 class="img-title text-white">connect People</h3>
+                     <h3 class="img-title text-white">Connect People</h3>
                   </div>
                </div>
 
