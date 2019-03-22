@@ -144,7 +144,7 @@
                <div class="col-lg-8 mx-auto">
                   <h2 class="section-title text-center">
                      <span>Why Join us</span>
-                     Event Outcomes
+                     Outcomes and Benefits
                   </h2>
                </div>
             </div><!-- row end-->
@@ -152,25 +152,25 @@
                <div class="col-lg-3 col-md-6 outcome-item">
                   <div class="ts-single-outcome">
                      <i class="icon-building"></i>
-                     <h3 class="ts-title">Building</h3>
+                     <h3 class="ts-title">Connections</h3>
                   </div><!-- single outcome end-->
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6 outcome-item">
                   <div class="ts-single-outcome">
                      <i class="icon-marketing"></i>
-                     <h3 class="ts-title">Marketing</h3>
+                     <h3 class="ts-title">Placement readiness</h3>
                   </div><!-- single outcome end-->
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6 outcome-item">
                   <div class="ts-single-outcome">
                      <i class="icon-planning"></i>
-                     <h3 class="ts-title">Planning</h3>
+                     <h3 class="ts-title">Experience</h3>
                   </div><!-- single outcome end-->
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6 outcome-item">
                   <div class="ts-single-outcome">
                      <i class="icon-Monetizing"></i>
-                     <h3 class="ts-title">Monetizing</h3>
+                     <h3 class="ts-title">Skills upgradation</h3>
                   </div><!-- single outcome end-->
                </div><!-- col end-->
             </div>
@@ -183,29 +183,29 @@
             <div class="row">
                <div class="col-lg-3 col-md-6">
                   <div class="ts-single-funfact">
-                     <h3 class="funfact-num"><span class="counterUp" data-counter="43">43</span>+</h3>
-                     <h4 class="funfact-title">Our Visionary
-                        Speakers</h4>
+                     <h3 class="funfact-num"><span class="counterUp" data-counter="100">100</span>+</h3>
+                     <h4 class="funfact-title">Companies
+                        </h4>
                   </div>
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6">
                   <div class="ts-single-funfact">
-                     <h3 class="funfact-num"><span class="counterUp" data-counter="62">62</span></h3>
-                     <h4 class="funfact-title">International Sponsors</h4>
+                     <h3 class="funfact-num"><span class="counterUp" data-counter="4">4</span></h3>
+                     <h4 class="funfact-title">Chances</h4>
                   </div>
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6">
                   <div class="ts-single-funfact">
-                     <h3 class="funfact-num"><span class="counterUp" data-counter="28">28</span>+</h3>
-                     <h4 class="funfact-title">Workshops
-                        We offer</h4>
+                     <h3 class="funfact-num"><span class="counterUp" data-counter="500">500</span>+</h3>
+                     <h4 class="funfact-title">Internships
+                        Offer</h4>
                   </div>
                </div><!-- col end-->
                <div class="col-lg-3 col-md-6">
                   <div class="ts-single-funfact">
-                     <h3 class="funfact-num"><span class="counterUp" data-counter="950">950</span>+</h3>
-                     <h4 class="funfact-title">Event
-                        Participants</h4>
+                     <h3 class="funfact-num"><span class="counterUp" data-counter="10">10</span>+</h3>
+                     <h4 class="funfact-title">Cities
+                        </h4>
                   </div>
                </div><!-- col end-->
             </div><!-- row end-->
